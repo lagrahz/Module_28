@@ -4,7 +4,7 @@ class Settings:
     valid_email = 'jargalkhas@mail.ru'
     valid_password = '12345Qwer!'
     valid_email_for_reg = 'jargalkhas@gmail.com'
-    invalid_email = 'testurro@mail.gref'
+    invalid_email = 'testurro@mail.ru'
     invalid_password = '123POI90!'
     empty_email = ''
     empty_password = ''
