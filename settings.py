@@ -1,9 +1,9 @@
 class Settings:
     chrome_driver = 'C:\Users\Zhargal\PycharmProjects\28/chromedriver.exe'
     base_url = 'https://b2c.passport.rt.ru'
-    valid_email = 'jargalkhas@mail.ru'
+    valid_email = ''
     valid_password = '12345Qwer!'
-    valid_email_for_reg = 'jargalkhas@gmail.com'
+    valid_email_for_reg = ''
     invalid_email = 'testurro@mail.ru'
     invalid_password = '123POI90!'
     empty_email = ''
